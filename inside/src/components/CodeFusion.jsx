@@ -1,6 +1,7 @@
 import React, { PureComponent } from 'react'
+import './index.css';
 
-export class Second extends PureComponent {
+export class CodeFusion extends PureComponent {
   render() {
     return (
       <>
@@ -10,4 +11,4 @@ export class Second extends PureComponent {
   }
 }
 
-export default Second
+export default CodeFusion

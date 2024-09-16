@@ -5,6 +5,9 @@
 body{
     background-color: #040404;
 }
+.colorforall{
+    color: white;
+}
 .navbardiv{
     background-color: #040404;
     width:100%;
