@@ -13,6 +13,7 @@ function Navbar() {
         <span style={{ fontSize: 'large' }} className="mainstyle">
           CodeFusion
         </span>
+        <Router>
         <ul className="navbarul">
           <li><a href="#" className="indexa">Product</a></li>
           <li><a href="#" className="indexa">Explore</a></li>
@@ -23,6 +24,7 @@ function Navbar() {
           <li><a href={SignIn} className="indexa">Sign In</a></li>
         </ul>
         <button className="btnforcrt">Create CodeFusion</button>
+        </Router>
       </div>
     </>
   )
