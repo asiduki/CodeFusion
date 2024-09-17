@@ -20,7 +20,7 @@ function Navbar() {
           <li><a href="#" className="indexa">Support</a></li>
           <li><a href="#" className="indexa">Pricing</a></li>
           <li><a href="#" className="indexa">Jobs</a></li>
-          <li><a href={SignIn} className="indexa">Sign In</a></li>
+          <li><a href="/SignIn.jsx" className="indexa">Sign In</a></li>
         </ul>
         <button className="btnforcrt">Create CodeFusion</button>
       </div>
