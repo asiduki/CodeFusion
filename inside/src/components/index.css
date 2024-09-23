@@ -143,6 +143,9 @@ body{
 .codeul{
     list-style-type: none;
 }
+.codeulli{
+    cursor: pointer;
+}
 .codearea{
     width:50%;
 
