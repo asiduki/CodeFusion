@@ -122,3 +122,32 @@ body{
         display: none;
     }
 }
+
+/* codefusion style */
+.codediv{
+    display: flex;
+    color: white;
+    padding-top: 57px;
+    height: 100%;
+    width:100%;
+    
+}
+.codeslidebar{
+    border:1px solid white ;
+    border-left: none;
+    border-bottom: none;
+    border-top: none;
+    padding:10px;
+    height:auto;
+}
+.codeul{
+    list-style-type: none;
+}
+.codearea{
+    width:50%;
+
+}
+.codeinput{
+    height:100%;
+    width:50%;
+}
