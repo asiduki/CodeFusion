@@ -127,7 +127,6 @@ body{
 .codediv{
     display: flex;
     color: white;
-    padding-top: 57px;
     height: 100%;
     width:100%;
     
@@ -152,5 +151,28 @@ body{
 }
 .codeinput{
     height:100%;
-    width:50%;
+    width:100%;
+    resize: none;
+}
+.codewhererun{
+    margin-top:58px;
+    height:20px;
+    width:100%;
+    background-color:rgb(1, 19, 1);
+    color: white;
+    display: flex;
+}
+.codebtnforlight{
+    background-color: transparent;
+    border: 0px;
+    margin-top: auto;
+    cursor: pointer;
+
+}
+.codebtnforlight1{
+    background-color: transparent;
+    border: 0px;
+    margin-top: auto;
+    cursor: pointer;
+    display: none;
 }
