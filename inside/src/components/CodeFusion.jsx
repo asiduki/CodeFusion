@@ -31,7 +31,8 @@ function dark(){
   const c = document.querySelectorAll('.codebtnforlight');
   const b = document.querySelectorAll('.codebtnforlight1');
   a.forEach((a) => {
-    a.style.backgroundColor = "rgb(1, 19, 1)"
+    a.style.backgroundColor = "rgb(1, 19, 1)";
+    a.style.color = "white";
   });
   c.forEach((c)=>
     {
@@ -40,7 +41,7 @@ function dark(){
   
     b.forEach((b)=>
     {
-    b.style.display = "none" ;
+    b.style.display = "none" ; 
     }
     )
 }
