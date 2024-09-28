@@ -151,6 +151,7 @@ body{
 }
 .codeulli{
     cursor: pointer;
+    padding-top:10px;
 }
 .codearea{
     width:50%;
@@ -168,6 +169,7 @@ body{
     /* background-color:rgb(1, 19, 1); */
     color: white;
     display: flex;
+    padding-left: 100px;
 }
 .codebtnforlight{
     background-color: transparent;
