@@ -8,9 +8,9 @@ import CodeFusion from './components/CodeFusion';
 const App = () => {
   return (
     <div>
-         <Navbar />  
-       <Main />   
-       {/* <CodeFusion/>  */}
+         {/* <Navbar />   */}
+       {/* <Main />    */}
+       <CodeFusion/> 
     </div>
   );
 };
