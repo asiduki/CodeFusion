@@ -22,12 +22,12 @@ function Navbar() {
           CodeFusion
         </span>
         <ul className="navbarul" id="tobehide">
-          <li className="hideonmobile"><a href="#" className="indexa">Product</a></li>
+          {/* <li className="hideonmobile"><a href="#" className="indexa">Product</a></li>
           <li className="hideonmobile"><a href="#" className="indexa">Explore</a></li>
           <li className="hideonmobile"><a href="#" className="indexa">Resource</a></li>
           <li className="hideonmobile"><a href="#" className="indexa">Support</a></li>
           <li className="hideonmobile"><a href="#" className="indexa">Pricing</a></li>
-          <li className="hideonmobile"><a href="#" className="indexa">Jobs</a></li>
+          <li className="hideonmobile"><a href="#" className="indexa">Jobs</a></li> */}
           <li className="hideonmobile"><a href="#" className="indexa">Sign In</a></li>
           <li onClick={showsidebar} className="hideonmobile1" style={{ cursor: 'pointer' }}>
             <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e8eaed">
@@ -41,12 +41,12 @@ function Navbar() {
               <path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z" />
             </svg>
           </li>
-          <li><a href="#" className="indexa">Product</a></li>
+          {/* <li><a href="#" className="indexa">Product</a></li>
           <li><a href="#" className="indexa">Explore</a></li>
           <li><a href="#" className="indexa">Resource</a></li>
           <li><a href="#" className="indexa">Support</a></li>
           <li><a href="#" className="indexa">Pricing</a></li>
-          <li><a href="#" className="indexa">Jobs</a></li>
+          <li><a href="#" className="indexa">Jobs</a></li> */}
           <li><a href="#" className="indexa">Sign In</a></li>
           <button className="btnforcrt">Create CodeFusion</button>
         </ul>

@@ -107,7 +107,7 @@ body{
 .sidebar a{
     width: 100%;
 }
-@media(max-width :1233px){
+@media(max-width :722px){
     .hideonmobile{
         display: none;
     }
@@ -117,7 +117,7 @@ body{
       width:1000vh;
     }
 }
-@media(min-width :1233px){
+@media(min-width :722px){
     .hideonmobile1{
         display: none;
     }
