@@ -9,9 +9,9 @@ import SignIn from './components/SignIn';
 const App = () => {
   return (
     <div>
-      <SignIn />
-         {/* <Navbar />   */}
-       {/* <Main />    */}
+      {/* <SignIn /> */}
+         <Navbar />  
+       <Main />   
        {/* <CodeFusion/>  */}
     </div>
   );
