@@ -185,3 +185,13 @@ body{
     cursor: pointer;
     display: none;
 }
+
+
+/* CSS FOR SIGNIN PAGE */
+
+.singindiv{
+    height:50px;
+    width:20px;
+    background-color: white;
+    text-align: center;
+}
