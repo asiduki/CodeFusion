@@ -4,15 +4,17 @@ import Navbar from './components/Navbar';
 import Main from './components/Main';
 import CodeFusion from './components/CodeFusion';
 import SignIn from './components/SignIn';
+// import Interface from './components/Interface';
 
 
 const App = () => {
   return (
     <div>
       {/* <SignIn /> */}
-         <Navbar />  
-       <Main />   
-       {/* <CodeFusion/>  */}
+      <Navbar />
+      <Main />
+      {/* <Interface /> */}
+      {/* <CodeFusion/>  */}
     </div>
   );
 };
