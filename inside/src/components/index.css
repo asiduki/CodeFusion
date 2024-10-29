@@ -3,7 +3,7 @@
     padding: 0px;
 }
 body{
-    background-color: rgb(1, 19, 1);
+    background-color: black;
 }
 .navbardiv{
     /* background-color: rgb(1, 19, 1); */
@@ -67,7 +67,7 @@ body{
 }
 .indexforlogo{
     /* padding-top:100px; */
-    background-color: rgb(1, 19, 1);
+    background-color: black;
     list-style-type: none;
 }
 .indexbtnfusion{
