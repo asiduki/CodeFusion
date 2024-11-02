@@ -5,7 +5,7 @@ import Main from './components/Main';
 import CodeFusion from './components/CodeFusion';
 import SignIn from './components/SignIn';
 // import Interface from './components/Interface';
-
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 const App = () => {
   return (
