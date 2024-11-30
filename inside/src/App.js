@@ -11,10 +11,10 @@ const App = () => {
   return (
     <div>
       {/* <SignIn /> */}
-      <Navbar />
-      <Main />
+      {/* <Navbar /> */}
+      {/* <Main /> */}
       {/* <Interface /> */}
-      {/* <CodeFusion/>  */}
+      <CodeFusion/> 
     </div>
   );
 };
